@@ -1,4 +1,5 @@
 # Phaseless auxiliary-field quantum Monte Carlo method for cavity-QED matter systems
+[![DOI](https://zenodo.org/badge/899588988.svg)](https://doi.org/10.5281/zenodo.14289884)
 
 This is the data repository for our paper [Phaseless auxiliary-field quantum Monte Carlo method for cavity-QED matter systems](https://doi.org/10.48550/arXiv.2410.18838).
 
