@@ -1,0 +1,62 @@
+[
+ {
+  "ccsdt": -0.004521090222934993,
+  "basis": "aug-cc-pvdz",
+  "molname": "CH₄"
+ },
+ {
+  "ccsdt": -0.005495799258129576,
+  "basis": "aug-cc-pvdz",
+  "molname": "NH₃"
+ },
+ {
+  "ccsdt": -0.005237016329134673,
+  "basis": "aug-cc-pvdz",
+  "molname": "H₂O"
+ },
+ {
+  "ccsdt": -0.00415819513689257,
+  "basis": "aug-cc-pvdz",
+  "molname": "FH"
+ },
+ {
+  "ccsdt": -0.006716292575829824,
+  "basis": "aug-cc-pvtz",
+  "molname": "CH₄"
+ },
+ {
+  "ccsdt": -0.008500787364711807,
+  "basis": "aug-cc-pvtz",
+  "molname": "NH₃"
+ },
+ {
+  "ccsdt": -0.008767745908590472,
+  "basis": "aug-cc-pvtz",
+  "molname": "H₂O"
+ },
+ {
+  "ccsdt": -0.007623209622613233,
+  "basis": "aug-cc-pvtz",
+  "molname": "FH"
+ },
+ {
+  "ccsdt": -0.007285081136575976,
+  "basis": "aug-cc-pvqz",
+  "molname": "CH₄"
+ },
+ {
+  "ccsdt": -0.00924578561881673,
+  "basis": "aug-cc-pvqz",
+  "molname": "NH₃"
+ },
+ {
+  "ccsdt": -0.009637173979087749,
+  "basis": "aug-cc-pvqz",
+  "molname": "H₂O"
+ },
+ {
+  "ccsdt": -0.00850676796092393,
+  "basis": "aug-cc-pvqz",
+  "molname": "FH"
+ }
+]

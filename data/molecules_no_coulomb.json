@@ -1,0 +1,902 @@
+[
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.39654471468168,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.39638740259713,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.3959155209504,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.39512923339888,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.39402881215472,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -158.39261463716818,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.20447963221153,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.20435894045264,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.20399689482883,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.20339358424565,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.2025491566958,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.20146381899,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.50064835003417,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.50052470690866,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.50015380681867,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.499535737576,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.49867064536375,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-CC",
+  "gauge": "Dipole",
+  "Energy": -162.49755873448092,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.39654471513626,
+  "EnergyError": 1.7065035436843346e-14
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.39654471511798,
+  "EnergyError": 5.725397169023869e-11
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.20447963251806,
+  "EnergyError": 1.7980291797689422e-11
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.20447963250624,
+  "EnergyError": 2.847950326576129e-12
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.50064835031964,
+  "EnergyError": 8.708416565443003e-12
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.50064835036196,
+  "EnergyError": 2.3886879553860104e-11
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.3949035436749,
+  "EnergyError": 6.165034520390542e-6
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.39638743697418,
+  "EnergyError": 3.628898486475223e-8
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.20369760697392,
+  "EnergyError": 9.763267119486504e-6
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.20435894754323,
+  "EnergyError": 2.117948315409147e-8
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.50031359122443,
+  "EnergyError": 1.628616146693306e-5
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.50052472527292,
+  "EnergyError": 2.631097404838903e-8
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.39013270774603,
+  "EnergyError": 2.7842702545675652e-5
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.395915731586,
+  "EnergyError": 1.3827772867229808e-7
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.201415155395,
+  "EnergyError": 3.9982074321310056e-5
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.20399674407463,
+  "EnergyError": 8.63791489688869e-8
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.49933208560185,
+  "EnergyError": 6.437178906182843e-5
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.50015373554535,
+  "EnergyError": 1.2048493209728541e-7
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.38223446023974,
+  "EnergyError": 5.634468410743252e-5
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.3951294435894,
+  "EnergyError": 3.2975215558110074e-7
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.19760989598467,
+  "EnergyError": 0.000122773596489285
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.20339347418576,
+  "EnergyError": 2.596782148694535e-7
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.4975031619651,
+  "EnergyError": 0.00012179437096807534
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.49953614186705,
+  "EnergyError": 2.467697721670679e-7
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.37202184357912,
+  "EnergyError": 0.00010285260166794574
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.3940289054951,
+  "EnergyError": 3.949615585023769e-7
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.1925911022038,
+  "EnergyError": 0.00018339206354359359
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.2025492154228,
+  "EnergyError": 2.922647707480378e-7
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.49509712452507,
+  "EnergyError": 0.00022612893205740532
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.49867159034002,
+  "EnergyError": 3.58471564948501e-7
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -158.35934743197438,
+  "EnergyError": 0.00014199803870718267
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -158.39261486806345,
+  "EnergyError": 8.743601322575431e-7
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.1859618830722,
+  "EnergyError": 0.00034673910964953385
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.20146276795663,
+  "EnergyError": 5.943460206503961e-7
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Coulomb",
+  "Energy": -162.49147495149276,
+  "EnergyError": 0.0006143493557345242
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-QMC",
+  "gauge": "Dipole",
+  "Energy": -162.49755896516882,
+  "EnergyError": 5.015107722972713e-7
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.39654471513637,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.39654471513637,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.2044796325097,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20447963250996,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.50064835032913,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.0,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.5006483503291,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.39324761796883,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.3963792862782,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.20118253534176,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20435314695644,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.49735125316116,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.02,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.50051885555663,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.38375650917538,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.39588301899335,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.19169142654903,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20397370071245,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.48786014436823,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.04,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.50013038068693,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.36906232164336,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.39505597107518,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.1769972390172,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20334132500656,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.47316595683586,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.06,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.49948295405048,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.35033054643282,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.39389823859872,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.15826546380652,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20245607185186,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.45443418162532,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.08,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.4985766228424,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -158.32859976795925,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvdz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -158.39240995555375,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.1365346853324,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvtz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.20131801397926,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Coulomb",
+  "Energy": -162.43270340315144,
+  "EnergyError": 0.0
+ },
+ {
+  "ε": 0.1,
+  "molname": "FH",
+  "basis": "aug-cc-pvqz",
+  "quadrupole_enabled": false,
+  "method": "QED-HF",
+  "gauge": "Dipole",
+  "Energy": -162.49741145307067,
+  "EnergyError": 0.0
+ }
+]
